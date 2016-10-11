@@ -10,7 +10,6 @@ sigma_SB = 5.673e-5 #erg cm-2 K^4 s-1
 M_sun = 1.99e33 #g
 R_sun = 6.96e10 #cm
 L_sun = 3.83e33 #erg s-1
-#L_sun = 3.9e33 #erg s-1
 year = 365.25 * 24. * 3600. #s
 
 # constant parameters
